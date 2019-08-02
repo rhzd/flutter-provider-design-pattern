@@ -1,0 +1,1 @@
+Hold the POJO class or the model class of the JSON response we will be getting from the server.
